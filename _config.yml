@@ -1,7 +1,7 @@
-name: Jonathan Matthey
-description: Portfolio
-author: Jonathan Matthey
+name: I Collect Apps
+description: App screens I collected
+author: Yujin Lee
 analytics: UA-96559329-1
-exclude: [ _design, README ]
+exclude: [ _design, README, vendor ]
 # baseurl: "http://www.jonathanmatthey.com/redesign/_site/"
 baseurl: "/"
